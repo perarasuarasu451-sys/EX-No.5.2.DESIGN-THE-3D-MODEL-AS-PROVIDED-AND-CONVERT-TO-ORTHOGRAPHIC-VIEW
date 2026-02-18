@@ -40,7 +40,8 @@ Switch to drawing mode from design mode
 
 [EX 5.2 EDM 25004665.pdf](https://github.com/user-attachments/files/24941441/EX.5.2.EDM.25004665.pdf)
 
-<img width="1033" height="733" alt="Screenshot 2026-02-11 082538" src="https://github.com/user-attachments/assets/cdd6ddcd-62e2-435b-a878-2eef8305af75" />
+<img width="1043" height="734" alt="Screenshot 2026-02-13 134852" src="https://github.com/user-attachments/assets/7775a5ba-cac5-42d8-8cc8-1a4170e7aba2" />
+
 
 
 ## RESULT:
